@@ -10,5 +10,5 @@ A sample repo to experiment with
 - Git add . 
 - Git commit -am "commit message"
 - Readme.md 
-- Codeowners
-* @user
+- Codeowners: * @user
+
