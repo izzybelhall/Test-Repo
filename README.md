@@ -9,3 +9,6 @@ A sample repo to experiment with
 - Git fetch
 - Git add . 
 - Git commit -am "commit message"
+- Readme.md 
+- Codeowners
+* @user
